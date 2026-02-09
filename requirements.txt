@@ -1,0 +1,2 @@
+# Requires: future-paradox
+# (Not available on PyPI)
